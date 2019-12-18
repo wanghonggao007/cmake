@@ -1,7 +1,6 @@
 
-CMake
+CMake Version3.5
 *****
-# Version3.5
 Introduction
 ============
 
